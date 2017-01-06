@@ -588,7 +588,16 @@ font-weight: 300;
 SERVICES
 
 *******************************/
-
+#services .container-fluid {
+background: #F7F7F7;
+padding: 60px 0 10px;
+}
+#services {
+text-align: center;
+}
+#services p, #home-services h4 {
+margin: 20px 0 20px !important;
+}
 #home-services .container-fluid {
 background: #F7F7F7;
 padding: 60px 0 10px;
