@@ -1,0 +1,150 @@
+Searching 40 files for "SIGN IN"
+
+/Users/imac/Documents/thev-master/thev/about.html:
+   44        <ul class="nav navbar-nav navbar-right">
+   45          <li><img class="thumbnail" src="/img/85.jpg" />KARISH AMMED</li>
+   46:         <li><a href="#contact">SIGN IN</a></li>
+   47          <li><a href="#contact">LOG IN</a></li>
+   48          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+/Users/imac/Documents/thev-master/thev/avp-landing.html:
+   44        <ul class="nav navbar-nav navbar-right">
+   45          <li><img class="thumbnail" src="/img/85.jpg" />KARISH AMMED</li>
+   46:         <li><a href="#contact">SIGN IN</a></li>
+   47          <li><a href="#contact">LOG IN</a></li>
+   48          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+/Users/imac/Documents/thev-master/thev/avp-page.html:
+   44        <ul class="nav navbar-nav navbar-right">
+   45          <li><img class="thumbnail" src="/img/85.jpg" />KARISH AMMED</li>
+   46:         <li><a href="#contact">SIGN IN</a></li>
+   47          <li><a href="#contact">LOG IN</a></li>
+   48          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+/Users/imac/Documents/thev-master/thev/contact.html:
+   44        <ul class="nav navbar-nav navbar-right">
+   45          <li><img class="thumbnail" src="/img/85.jpg" />KARISH AMMED</li>
+   46:         <li><a href="#contact">SIGN IN</a></li>
+   47          <li><a href="#contact">LOG IN</a></li>
+   48          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+/Users/imac/Documents/thev-master/thev/event-article.html:
+   44        <ul class="nav navbar-nav navbar-right">
+   45          <li><img class="thumbnail" src="/img/85.jpg" />KARISH AMMED</li>
+   46:         <li><a href="#contact">SIGN IN</a></li>
+   47          <li><a href="#contact">LOG IN</a></li>
+   48          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+/Users/imac/Documents/thev-master/thev/events-landing.html:
+   44        <ul class="nav navbar-nav navbar-right">
+   45          <li><img class="thumbnail" src="/img/85.jpg" />KARISH AMMED</li>
+   46:         <li><a href="#contact">SIGN IN</a></li>
+   47          <li><a href="#contact">LOG IN</a></li>
+   48          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+/Users/imac/Documents/thev-master/thev/gallery-landing.html:
+   44        <ul class="nav navbar-nav navbar-right">
+   45          <li><img class="thumbnail" src="/img/85.jpg" />KARISH AMMED</li>
+   46:         <li><a href="#contact">SIGN IN</a></li>
+   47          <li><a href="#contact">LOG IN</a></li>
+   48          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+/Users/imac/Documents/thev-master/thev/index-origlayout.html:
+   43        </ul>
+   44        <ul class="nav navbar-nav navbar-right">
+   45:         <li><a href="#contact">SIGN IN</a></li>
+   46          <li><a href="#contact">LOG IN</a></li>
+   47          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+/Users/imac/Documents/thev-master/thev/index.html:
+   44        <ul class="nav navbar-nav navbar-right">
+   45          <li><img class="thumbnail" src="/img/85.jpg" />KARISH AMMED</li>
+   46:         <li><a href="#contact">SIGN IN</a></li>
+   47          <li><a href="#contact">LOG IN</a></li>
+   48          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+/Users/imac/Documents/thev-master/thev/news-article.html:
+   44        <ul class="nav navbar-nav navbar-right">
+   45          <li><img class="thumbnail" src="/img/85.jpg" />KARISH AMMED</li>
+   46:         <li><a href="#contact">SIGN IN</a></li>
+   47          <li><a href="#contact">LOG IN</a></li>
+   48          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+/Users/imac/Documents/thev-master/thev/news-landing.html:
+   44        <ul class="nav navbar-nav navbar-right">
+   45          <li><img class="thumbnail" src="/img/85.jpg" />KARISH AMMED</li>
+   46:         <li><a href="#contact">SIGN IN</a></li>
+   47          <li><a href="#contact">LOG IN</a></li>
+   48          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+/Users/imac/Documents/thev-master/thev/register.html:
+   44        <ul class="nav navbar-nav navbar-right">
+   45          <li><img class="thumbnail" src="/img/85.jpg" />KARISH AMMED</li>
+   46:         <li><a href="#contact">SIGN IN</a></li>
+   47          <li><a href="#contact">LOG IN</a></li>
+   48          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+/Users/imac/Documents/thev-master/thev/search.html:
+   44        <ul class="nav navbar-nav navbar-right">
+   45          <li><img class="thumbnail" src="/img/85.jpg" />KARISH AMMED</li>
+   46:         <li><a href="#contact">SIGN IN</a></li>
+   47          <li><a href="#contact">LOG IN</a></li>
+   48          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+/Users/imac/Documents/thev-master/thev/services-events.html:
+   44        <ul class="nav navbar-nav navbar-right">
+   45          <li><img class="thumbnail" src="/img/85.jpg" />KARISH AMMED</li>
+   46:         <li><a href="#contact">SIGN IN</a></li>
+   47          <li><a href="#contact">LOG IN</a></li>
+   48          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+/Users/imac/Documents/thev-master/thev/services-network-support.html:
+   44        <ul class="nav navbar-nav navbar-right">
+   45          <li><img class="thumbnail" src="/img/85.jpg" />KARISH AMMED</li>
+   46:         <li><a href="#contact">SIGN IN</a></li>
+   47          <li><a href="#contact">LOG IN</a></li>
+   48          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+/Users/imac/Documents/thev-master/thev/services-training-tools.html:
+   44        <ul class="nav navbar-nav navbar-right">
+   45          <li><img class="thumbnail" src="/img/85.jpg" />KARISH AMMED</li>
+   46:         <li><a href="#contact">SIGN IN</a></li>
+   47          <li><a href="#contact">LOG IN</a></li>
+   48          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+/Users/imac/Documents/thev-master/thev/services.html:
+   45        <ul class="nav navbar-nav navbar-right">
+   46          <li><img class="thumbnail" src="/img/85.jpg" />KARISH AMMED</li>
+   47:         <li><a href="#contact">SIGN IN</a></li>
+   48          <li><a href="#contact">LOG IN</a></li>
+   49          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+/Users/imac/Documents/thev-master/thev/va-landing.html:
+   44        <ul class="nav navbar-nav navbar-right">
+   45          <li><img class="thumbnail" src="/img/85.jpg" />KARISH AMMED</li>
+   46:         <li><a href="#contact">SIGN IN</a></li>
+   47          <li><a href="#contact">LOG IN</a></li>
+   48          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+/Users/imac/Documents/thev-master/thev/vc-landing.html:
+   44        <ul class="nav navbar-nav navbar-right">
+   45          <li><img class="thumbnail" src="/img/85.jpg" />KARISH AMMED</li>
+   46:         <li><a href="#contact">SIGN IN</a></li>
+   47          <li><a href="#contact">LOG IN</a></li>
+   48          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+/Users/imac/Documents/thev-master/thev/vp-landing.html:
+   44        <ul class="nav navbar-nav navbar-right">
+   45          <li><img class="thumbnail" src="/img/85.jpg" />KARISH AMMED</li>
+   46:         <li><a href="#contact">SIGN IN</a></li>
+   47          <li><a href="#contact">LOG IN</a></li>
+   48          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+/Users/imac/Documents/thev-master/thev/vp-page.html:
+   41            </ul>
+   42            <ul class="nav navbar-nav navbar-right">
+   43:             <li><a href="#contact">SIGN IN</a></li>
+   44              <li><a href="#contact">LOG IN</a></li>
+   45              <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">ENGLISH <span class="caret"></span></a>
+
+21 matches across 21 files
