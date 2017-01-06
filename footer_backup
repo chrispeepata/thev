@@ -1,0 +1,82 @@
+<!-- 
+
+<div class="container-fluid footer ">
+  <div class="container ">
+    <div class="row">
+      <div class="col-md-3">
+        <p>THE V</p>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">News</a></li>
+          <li><a href="#">V Ambassadors</a></li>
+          <li><a href="#">Galleries</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Contact Us</a></li>
+        </ul>
+      </div>
+
+      <div class="col-md-3">
+        <p>UPCOMING EVENTS</p>
+        <ul>
+          <li><a href="#">V-Con 2017</a></li>
+          <li><a href="#">ICE Summit</a></li>
+          <li><a href="#">Inservice Brotherhood</a></li>
+        </ul>
+      </div>
+
+      <div class="col-md-3">
+        <p>NEWS CATEGORIES</p>
+        <ul>
+          <li><a href="#">Chief Pathman's Messages</a></li>
+          <li><a href="#">Did You Know</a></li>
+          <li><a href="#">Event Announcements</a></li>
+          <li><a href="#">Promos</a></li>
+          <li><a href="#">Rockstar</a></li>
+          <li><a href="#">Voyager Magazine</a></li>
+          <li><a href="#">VTube+</a></li>
+        </ul>
+      </div>
+
+      <div class="col-md-3">
+        <p>VOYAGER</p>
+        <ul>
+          <img class="" src="img/footer-img.jpg">
+          <img class="" src="img/footer-img.jpg">
+          <img class="" src="img/footer-img.jpg">
+          <a href="#">Subscribe now </a> |
+          <a href="#">Gift Subscription </a> |
+          <a href="#">Subscriber Services</a>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="bot-footer">
+  <div class="container text-center">
+    <div class="col-sm-2 text-left">
+          <img class="" src="img/footer-logo.png">
+        </div>
+        <div class="col-sm-8 text-center">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">The V</a></li>
+            <li><a href="#about">VTube+</a></li>
+            <li><a href="#contact">VShoppe</a></li>
+            <li><a href="#contact">V-Con 2017</a></li>
+            <li><a href="#contact">VLC 2017</a></li>
+            <li><a href="#contact">Apps</a></li>
+          </ul>
+          <p>
+          Copyright © 2016 The V · Privacy Policy
+          </p>
+        </div>
+        <div class="col-sm-2 text-right icons">
+          <i class="icon-facebook icon-2x"></i>
+          <i class="icon-twitter icon-2x"></i>
+          <i class="icon-instagram icon-2x"></i>
+        </div>
+  </div>
+</div>
+
+-->
