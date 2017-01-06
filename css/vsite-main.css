@@ -1151,6 +1151,14 @@ text-align: center;
 }
 
 
+
+.va-item p {
+    overflow: hidden;
+    line-height: 1.2em;
+    max-height: 3.4em;
+}
+
+
 /***********  ***************/
 .vp-content {
   background: #fff;
