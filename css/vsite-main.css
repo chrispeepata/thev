@@ -220,8 +220,12 @@ height: 70px;
   width: 40px;
 height: 40px;
 border-radius: 20px;
-margin-right: 10px;
+margin: 0 10px 0 0;
 float: left;
+}
+
+.navbar-brand {
+  padding-left: 0;
 }
 
 
