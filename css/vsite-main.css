@@ -39,7 +39,7 @@ margin-left: auto !important;
 }
 
 p {
-  line-height: 1.5 !important;
+  line-height: 1.5;
 letter-spacing: 0.5px !important;
 }
 a p {
@@ -246,7 +246,7 @@ float: left;
   font-weight:bold;
   cursor:pointer;
   outline:none;
-  z-index:10000000000000;
+
 }
 .cross{
   background:none;
@@ -509,8 +509,8 @@ background: #000;
 }
 .main-feat-copy p {
     overflow: hidden;
-    line-height: 1.2em;
-    max-height: 2.4em;
+    line-height: 1.2em !important;
+    max-height: 2.4em !important;
 }
 .main-feat-right {
 padding-top: 10px;
@@ -525,7 +525,7 @@ margin-bottom: 20px;
 .feat-news h4, .feat-news p {
 padding: 0 15px;
 overflow: hidden;
-line-height: 1.2em;
+line-height: 1.2em !important;
 max-height: 2.4em;
 }
 .feat-news img {
@@ -680,7 +680,7 @@ padding-bottom: 10px;
 }
 .reco-item-1 p {
     overflow: hidden;
-    line-height: 1.2em;
+    line-height: 1.2em !important;
     max-height: 2.4em;
   }
 #home-recommended {
@@ -721,7 +721,7 @@ overflow: hidden
 /** BANNER SECTION **/
 #home-sns {
 background-color: #12609E;
-padding: 50px 0;
+padding: 50px 0 !important;
 color: #fff;
 }
 #home-sns .icons i{
@@ -1154,7 +1154,7 @@ text-align: center;
 
 .va-item p {
     overflow: hidden;
-    line-height: 1.2em;
+    line-height: 1.2em !important;
     max-height: 3.4em;
 }
 

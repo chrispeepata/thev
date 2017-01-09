@@ -25,9 +25,18 @@
 }
 }
 
+@media (max-width: 980px) {
+  .topnav {display: none;}
+  .mainnav {display: none;}
+  #mobile-nav { display: flex; }
+  .mobile-title-wrap { display: flex !important; }
+  .overlay-content .navbar-nav > li {float: none;}
+  .overlay-content .navbar-nav {float: none;}
+
+}
 
 @media (max-width: 767px) {
-.mobile-title-wrap { display: flex !important; }
+
 
 .vbtn {
   margin-bottom: 20px;
