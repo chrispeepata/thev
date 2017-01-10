@@ -1250,6 +1250,20 @@ color: #000;
 }
 
 
+.gallery-wrapper p{
+  padding: 0 250px;
+  text-align: center;
+}
+
+.gallery-wrapper {
+  padding: 0;
+}
+
+.gallery-wrapper img {
+  display: inline;
+  padding-right: 10px;
+}
+
 
 /******************************
 
