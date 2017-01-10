@@ -1018,7 +1018,7 @@ ARTICLE PAGE
 
 .moodmeter { text-align: center; }
 .moodmeter ul { display: inline-block; list-style: none; padding-left: 0; }
-.moodmeter li { padding: 0 7px; }
+.moodmeter li { padding: 0 7px; float: left; }
 .moodmeter li .mood {
     background-color: black;
     color: white;
@@ -1267,7 +1267,8 @@ COMMENT SECTION
 .commentcontainer input {
     border-bottom: 1px solid #ddd;
     font-style: italic;
-    width: 221px;
+    width: 100%;
+    padding: 20px;
 }
 
 .commentcontainer ul {
