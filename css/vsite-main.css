@@ -730,6 +730,7 @@ overflow: hidden
 }
 
 /** BANNER SECTION **/
+
 #home-sns {
 background-color: #12609E;
 padding: 50px 0 !important;
@@ -852,6 +853,65 @@ CONTACT PAGE
 #contact .left {
   padding-bottom: 40px;
 }
+
+/******************************
+
+FORMS | LOGIN
+
+*******************************/
+.form-details {
+    background: #F2F2F2;
+    width: 600px;
+    padding: 60px 60px;
+    margin: 20px auto;
+}
+
+.form-details .vbtn {
+    margin: 30px auto 0;
+}
+
+#form-wrapper {
+  background: #fff;
+  padding: 0 20px 80px;
+  text-align: center;
+}
+#form-wrapper .form-control {
+  border-radius: 0;
+  height: 50px;
+}
+#form-wrapper-label{
+  /* text-align:right; */
+  text-align:left;
+  float: left;
+}
+
+#form-wrapper .form-group {
+    margin: 0 auto 15px;
+    max-width: 600px;
+}
+
+
+
+#banner-login {
+background-color: #12609E;
+padding: 50px 0 !important;
+color: #fff;
+text-align: center;
+}
+
+#banner-login .vbtn {
+margin-bottom: 0;
+margin-left: 20px;
+}
+
+#banner-login h4 {
+margin-bottom: 0;
+margin-left: 20px;
+color: #fff;
+}
+
+
+
 
 /******************************
 
