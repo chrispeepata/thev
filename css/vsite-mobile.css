@@ -407,5 +407,20 @@ margin: 10px 0 0;
   padding: 30px 0 !important;
 }
 
+.form-details {
+  padding: 30px;
+}
+
+#form-wrapper {
+  padding: 0 20px 20px;
+}
+
+#form-wrapper .title-page{
+  display: none !important;
+}
+
+#form-wrapper .form-copy p{
+  padding-top: 30px;
+}
 
 }

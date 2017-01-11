@@ -886,7 +886,7 @@ FORMS | LOGIN
 *******************************/
 .form-details {
     background: #F2F2F2;
-    width: 600px;
+    max-width: 600px;
     padding: 60px 60px;
     margin: 20px auto;
 }
