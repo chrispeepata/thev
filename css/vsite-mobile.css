@@ -384,4 +384,13 @@ font-size: 12px;
   display: none;
 }
 
+ul.nav ul.dropdown-menu {
+    display: none;
+}
+
+ul.nav ul.dropdown-menu:hover {
+  display: none;
+}
+
+
 }

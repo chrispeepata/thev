@@ -413,6 +413,10 @@ outline: none;
     border-color: #337ab7;
 }
 
+ul.nav li.dropdown:hover ul.dropdown-menu {
+    display: block;
+}
+
 /******************************
 
 FOOTER
@@ -896,7 +900,7 @@ EVENT PAGE
 .event-item {
   background: #fff;
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 40px !important;
 }
 .event-details {
   padding: 20px 20px;
@@ -1039,7 +1043,7 @@ ARTICLE PAGE
 
 .moodmeter { text-align: center; }
 .moodmeter ul { display: inline-block; list-style: none; padding-left: 0; }
-.moodmeter li { padding: 0 7px; }
+.moodmeter li { padding: 0 7px; float: left; }
 .moodmeter li .mood {
     background-color: black;
     color: white;
@@ -1271,6 +1275,20 @@ color: #000;
 }
 
 
+.gallery-wrapper p{
+  padding: 0 250px;
+  text-align: center;
+}
+
+.gallery-wrapper {
+  padding: 0;
+}
+
+.gallery-wrapper img {
+  display: inline;
+  padding-right: 10px;
+}
+
 
 /******************************
 
@@ -1288,7 +1306,8 @@ COMMENT SECTION
 .commentcontainer input {
     border-bottom: 1px solid #ddd;
     font-style: italic;
-    width: 221px;
+    width: 100%;
+    padding: 20px;
 }
 
 .commentcontainer ul {
