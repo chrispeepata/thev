@@ -1390,6 +1390,8 @@ COMMENT SECTION
 }
 .commentcontainer ul li .comment { display: inline; width: 100%; }
 
+.commentcontainer .comment-input { width: 100%; }
+
 .commentcontainer ul li .comment .details .author,
 .commentcontainer ul li .comment .details .dateposted,
 .commentcontainer ul li .comment .details .timeposted {display: inline;}
