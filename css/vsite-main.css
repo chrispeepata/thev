@@ -1013,6 +1013,32 @@ EVENT PAGE
   padding-bottom: 20px;
 }
 
+.event-sidebar {
+  padding-left: 20px !important; 
+}
+.event-sidebar h3{
+  margin: 0 0 20px 0;
+  padding: 50px 0 16px;
+}
+
+.event-sidebar li a:hover{
+  color: #95989A;
+}
+
+.event-sidebar li a{
+  color: #95989A;
+}
+
+.event-sidebar li{
+  list-style: none;
+  border-bottom: 1px solid #E3E3E3;
+  padding: 10px;
+}
+
+.event-sidebar .page-title-wrapper {
+  display: block;
+}
+
 /******************************
 
 ABOUT US PAGE
